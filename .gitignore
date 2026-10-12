@@ -1,0 +1,13 @@
+# Python environment
+.venv/
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+
+# Visual Studio
+.vs/
+
+# Credentials
+.streamlit/secrets.toml
+.env
